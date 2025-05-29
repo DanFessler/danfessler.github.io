@@ -1,6 +1,6 @@
 ## Executive Summary
 
-I've spent the last 20 years working in the games industry primarily in art and creative leadership roles, but throughout it all I've maintained my passion for frontend development with a focussing on web development, creative tools, and visual programming languages. This resume highlights my technical expertise and software engineering accomplishments throughout my career.
+I've spent the last 20 years working in the games industry primarily in art and creative leadership roles, but throughout it all I've maintained my passion for frontend development with a focus on web development, creative tools, and visual programming languages. This resume highlights my technical expertise and software engineering accomplishments throughout my career.
 
 - 20 years experience software development (primarily games)
 - 10+ Years in creative executive leadership roles
