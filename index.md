@@ -1,3 +1,7 @@
+---
+title: Dan Fessler - Senior Software Engineer
+---
+
 ## Executive Summary
 
 I've spent the last 20 years working in the games industry primarily in art and creative leadership roles, but throughout it all I've maintained my passion for frontend development with a focus on web development, creative tools, and visual programming languages. This resume highlights my technical expertise and software engineering accomplishments throughout my career.
